@@ -1,23 +1,22 @@
 {
-  "name": "kerja-mantul",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "next-landing-vpn",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-  "dev": "next",
-  "build": "next build",
-  "start": "next start"
-},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+    "dev": "next dev --port $PORT",
+    "build": "next build",
+    "start": "next start"
+  },
   "dependencies": {
-    "next": "^9.4.1",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "@fullhuman/postcss-purgecss": "^3.0.0",
+    "autoprefixer": "^10.0.3",
+    "next": "10.0.3",
+    "postcss-import": "^13.0.0",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "tailwindcss": "^2.0.1"
   },
   "devDependencies": {
-    "postcss-preset-env": "^6.7.0",
-    "tailwindcss": "^1.4.6"
+    "babel-plugin-inline-react-svg": "^1.1.2"
   }
 }
