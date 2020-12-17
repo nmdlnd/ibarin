@@ -1,8 +1,19 @@
 /* purgecss start ignore */
+@import url("https://fonts.googleapis.com/css2?family=Great+Vibes&family=Habibi&family=Montserrat:wght@300;400;500;600;700&display=swap");
+
 @tailwind base;
 @tailwind components;
 html {
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
+}
+.font-habibi {
+  font-family: "Habibi", serif;
+}
+.font-great-vibes {
+  font-family: "Great Vibes", cursive;
+}
+.bg-blur-2px {
+  filter: blur(2px);
 }
 p {
   @apply tracking-wide;
