@@ -11,6 +11,13 @@ module.exports = {
     boxShadow: {
       DEFAULT: '#11130f 0px 14px 20px;',
     },
+    maxWidth: {
+      'screen-2xl': '1440px',
+      'screen-xl': '1280px',
+      'screen-lg': '1024px',
+      'screen-md': '768px',
+      'screen-sm': '640px',
+    },
     extend: {
       colors: {
         'grey-chez': {
