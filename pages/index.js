@@ -94,7 +94,7 @@ export default function Home() {
         </section>
         <section
           id="gallery"
-          className="bg-dark-500 pt-8 md:pt-0 pb-20 grid grid-flow-row gap-4 grid-rows-6 grid-cols-2 h-screen px-4"
+          className="bg-dark-500 pt-8 md:pt-0 pb-24 grid grid-flow-row gap-4 grid-rows-6 grid-cols-2 h-screen px-4"
         >
           <h1 className="col-span-2  text-5xl font-great-vibes my-auto mx-auto text-white">
             Gallery
