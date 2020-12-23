@@ -9,7 +9,7 @@ module.exports = {
   ],
   theme: {
     boxShadow: {
-      DEFAULT: '#11130f 0px 4px 12px;',
+      DEFAULT: '#11130f 0px 14px 20px;',
     },
     extend: {
       colors: {
