@@ -131,7 +131,7 @@ export default function Home() {
         </section>
         <section
           id="gallery"
-          className="bg-dark-500 pt-8 md:pt-0 lg:pt-32 pb-24 lg:pb-8 grid grid-flow-row gap-4 grid-rows-6 lg:grid-rows-5 grid-cols-2 lg:grid-cols-3 h-screen px-4 lg:px-8"
+          className="bg-dark-500 pt-8 md:pt-0 lg:pt-32 pb-24 lg:pb-8 grid grid-flow-row gap-4 grid-rows-7 lg:grid-rows-5 grid-cols-2 lg:grid-cols-3 h-screen px-4 lg:px-8"
         >
           <h1 className="col-span-2  text-5xl font-great-vibes my-auto mx-auto text-white lg:hidden">
             Gallery
@@ -147,7 +147,7 @@ export default function Home() {
               loading="lazy"
             />
           </div>
-          <div className="flex row-span-1 lg:row-span-5 bg-white">
+          <div className="flex  row-start-3 col-start-2 row-span-3 lg:row-span-5 bg-white">
             <Image
               src="/assets/gallery-mobile/photo-2.png"
               alt="Picture of the author"
@@ -158,7 +158,7 @@ export default function Home() {
               loading="lazy"
             />
           </div>
-          <div className="flex row-span-3  lg:row-span-2">
+          <div className="flex row-span-1 col-start-2 lg:col-start-3 row-start-2  lg:row-span-2">
             <Image
               src="/assets/gallery-mobile/photo-3.png"
               alt="Picture of the author"
@@ -180,7 +180,7 @@ export default function Home() {
               loading="lazy"
             />
           </div>
-          <div className="flex row-span-1 lg:row-span-2 col-span-2 lg:col-span-1 w-full relative">
+          <div className="flex row-span-2 lg:row-span-2 col-span-2 lg:col-span-1 w-full relative">
             <Image
               src="/assets/gallery-mobile/photo-5.png"
               alt="Picture of the author"

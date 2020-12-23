@@ -33,6 +33,11 @@ module.exports = {
           450: 'hsla(83,12%,13%,0.4)',
         },
       },
+      gridTemplateRows: {
+        // Simple 8 row grid
+
+        7: 'repeat(7, minmax(0, 1fr))',
+      },
     },
   },
   variants: {},
