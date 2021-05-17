@@ -2,13 +2,24 @@
   "projectName": "ibarin",
   "projectOwner": "adeka-factory",
   "repoType": "github",
-  "repoHost": "https://github.com/adeka-factory/ibarin",
+  "repoHost": "https://github.com",
   "files": [
     "README.md"
   ],
   "imageSize": 100,
   "commit": true,
   "commitConvention": "gitmoji",
-  "contributors": [],
-  "contributorsPerLine": 7
+  "contributors": [
+    {
+      "login": "ffadilaputra",
+      "name": "Ivan Fadila Putra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6916297?v=4",
+      "profile": "https://ffadilaputra.space/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
