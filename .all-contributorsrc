@@ -1,0 +1,14 @@
+{
+  "projectName": "ibarin",
+  "projectOwner": "adeka-factory",
+  "repoType": "github",
+  "repoHost": "https://github.com/adeka-factory/ibarin",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [],
+  "contributorsPerLine": 7
+}

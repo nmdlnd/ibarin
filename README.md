@@ -1,30 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💍 Ibarin
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-## Getting Started
+> A brief description of what this project does and who it's for
 
-First, run the development server:
+## 🗒️ Features
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+- Crafted with [tailwindcss](https://tailwindcss.com/)
+- This project bootstrapped with `create-next-app`
+- Mobile first and responsive page
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 Quick start
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+> A nodejs >= 6.0.0 setup with [yarn](https://yarnpkg.com/) is recommended.
 
-## Learn More
+1.  **Start developing.**
 
-To learn more about Next.js, take a look at the following resources:
+    Move to project's directory.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+    ```bash
+    cd project-name/
+    ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+    Start your site.
 
-## Deploy on Vercel
+    ```bash
+    # using npm
+    npm start
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+    # using yarn
+    yarn start
+    ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+    Open source code using your favorite IDE/Text editor and navigate to root` directory, this is where your application live.
+
+2.  **Build your application for production.**
+
+    Once you're finished, you can make production build of your app using:
+
+    ```bash
+    # using npm
+    npm run build
+
+    # using yarn
+    yarn build
+    ```
+
+## Author
+
+///
+  
+## 💫 Deployment
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fadeka-factory%2Fibarin)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/adeka-factory/ibarin)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
