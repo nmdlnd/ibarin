@@ -68,6 +68,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://ffadilaputra.space/"><img src="https://avatars.githubusercontent.com/u/6916297?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivan Fadila Putra</b></sub></a><br /><a href="https://github.com/adeka-factory/ibarin/commits?author=ffadilaputra" title="Documentation">📖</a> <a href="#projectManagement-ffadilaputra" title="Project Management">📆</a> <a href="https://github.com/adeka-factory/ibarin/pulls?q=is%3Apr+reviewed-by%3Affadilaputra" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://naufaldi.xyz"><img src="https://avatars.githubusercontent.com/u/13159420?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Naufaldi</b></sub></a><br /><a href="https://github.com/adeka-factory/ibarin/commits?author=naufaldi" title="Code">💻</a> <a href="https://github.com/adeka-factory/ibarin/pulls?q=is%3Apr+reviewed-by%3Anaufaldi" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/aura-kanza-caesaria-734361163/"><img src="https://avatars.githubusercontent.com/u/18681884?v=4?s=100" width="100px;" alt=""/><br /><sub><b>aura kanza</b></sub></a><br /><a href="#design-aurakanzaa" title="Design">🎨</a></td>
   </tr>
 </table>
 
