@@ -40,10 +40,10 @@
 
     ```bash
     # using npm
-    npm start
+    npm run dev
 
     # using yarn
-    yarn start
+    yarn dev
     ```
 
     Open source code using your favorite IDE/Text editor and navigate to root` directory, this is where your application live.
@@ -66,7 +66,9 @@
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/adeka-factory/ibarin)
 
-## Contributors ✨
+Or using custom server, follow this [link](https://nextjs.org/docs/advanced-features/custom-server)
+
+## ✨ Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
