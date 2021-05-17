@@ -7,9 +7,22 @@
 
 ## 🗒️ Features
 
-- Crafted with [tailwindcss](https://tailwindcss.com/)
-- This project bootstrapped with `create-next-app`
-- Mobile first and responsive page
+### Template feature
+
+- 🎈 Mobile first and responsive page
+- 🤖 SEO metadata and Open Graph tags (WIP)
+- 💯 Maximize lighthouse score (WIP)
+- ⚙️ PSI reports (WIP)
+
+### Developer feature
+
+- 🔥 Next.js for Static Site Generator
+- 🎨 Integrate with Tailwind CSS
+- 💅 PostCSS for processing Tailwind CSS
+- 🛠 Code Formatter with Prettier
+- 🦊 SEO metadata, JSON-LD and Open Graph tags with Next SEO (WIP)
+- ⚙️ Bundler Analyzer (WIP)
+
 
 ## 🚀 Quick start
 
