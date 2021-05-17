@@ -20,6 +20,15 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "aurakanzaa",
+      "name": "aura kanza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/18681884?v=4",
+      "profile": "https://www.linkedin.com/in/aura-kanza-caesaria-734361163/",
+      "contributions": [
+        "design"
+      ]
     }
   ],
   "contributorsPerLine": 7,
