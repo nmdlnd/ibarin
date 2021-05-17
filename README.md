@@ -66,7 +66,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://ffadilaputra.space/"><img src="https://avatars.githubusercontent.com/u/6916297?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivan Fadila Putra</b></sub></a><br /><a href="https://github.com/adeka-factory/ibarin/commits?author=ffadilaputra" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://ffadilaputra.space/"><img src="https://avatars.githubusercontent.com/u/6916297?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ivan Fadila Putra</b></sub></a><br /><a href="https://github.com/adeka-factory/ibarin/commits?author=ffadilaputra" title="Documentation">📖</a> <a href="#projectManagement-ffadilaputra" title="Project Management">📆</a> <a href="https://github.com/adeka-factory/ibarin/pulls?q=is%3Apr+reviewed-by%3Affadilaputra" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
