@@ -20,6 +20,16 @@
         "projectManagement",
         "review"
       ]
+    },
+    {
+      "login": "naufaldi",
+      "name": "Naufaldi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13159420?v=4",
+      "profile": "https://naufaldi.xyz",
+      "contributions": [
+        "code",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
