@@ -46,10 +46,6 @@
     # using yarn
     yarn build
     ```
-
-## Author
-
-///
   
 ## 💫 Deployment
 
