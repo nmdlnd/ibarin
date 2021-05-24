@@ -10,9 +10,9 @@
 ### Template feature
 
 - 🎈 Mobile first and responsive page
-- 🤖 SEO metadata and Open Graph tags (WIP)
-- 💯 Maximize lighthouse score (WIP)
-- ⚙️ PSI reports (WIP)
+- 🤖 SEO metadata and Open Graph tags [#10](https://github.com/adeka-factory/ibarin/issues/10)
+- 💯 Maximize lighthouse score [#11](https://github.com/adeka-factory/ibarin/issues/11)
+- ⚙️ PSI reports [#11](https://github.com/adeka-factory/ibarin/issues/11)
 
 ### Developer feature
 
@@ -20,8 +20,8 @@
 - 🎨 Integrate with Tailwind CSS
 - 💅 PostCSS for processing Tailwind CSS
 - 🛠 Code Formatter with Prettier
-- 🦊 SEO metadata, JSON-LD and Open Graph tags with Next SEO (WIP)
-- ⚙️ Bundler Analyzer (WIP)
+- 🦊 SEO metadata, JSON-LD and Open Graph tags with Next SEO [#10](https://github.com/adeka-factory/ibarin/issues/10)
+- ⚙️ Bundler Analyzer [#8](https://github.com/adeka-factory/ibarin/issues/8)
 
 
 ## 🚀 Quick start
